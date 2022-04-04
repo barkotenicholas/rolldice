@@ -1,9 +1,8 @@
 # Dice Roll Application
 
-This android app is used for rolling dice
----
-# preview
+- This android app is used for rolling dice
 
+---
 ## preview
 ![ScreenShot](screenshots/one.jpg)
 ---
@@ -38,10 +37,8 @@ This android app is used for rolling dice
 
 <a href="mailto:barkotenicholas@gmail.com">barkotenicholas@gmail.com</a>
 
- ## Live Link
 
 
-[Click here to see the website](https://barkotenicholas.github.io/Quotes/)
 
 
 ## License & copyright
