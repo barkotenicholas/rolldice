@@ -18,21 +18,11 @@ This android app is used for rolling dice
 - Nicholas Barkote <nicholas.kebut@student.moringaschool.com>
 ---
 
-## Requirements
-
-- google Chrome
-- git
-- nodejs
-
-
-* Open index.html with a google chrome
 
 # Tech Stack
 
-- HTML
-- CSS
-- bootstrap
-- Angular
+- Android
+- Kotlin
 
 
 ## Setup Instructions
@@ -40,11 +30,9 @@ This android app is used for rolling dice
 * clone it to your desktop
 ```bash
  git clone  https://github.com/barkotenicholas/Quotes.git
- cd Quotes
- npm install
- ng serve -o
- code .
   ```
+ - then open with android studio
+
 
 ## Contact Information
 
